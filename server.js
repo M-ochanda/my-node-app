@@ -203,7 +203,7 @@ app.get('/', (req, res) => {
       <div class="container">
         <section class="card">
           <div class="badge">Azure App Service • Node.js Portfolio</div>
-          <h1>Hi, I'm <span class="highlight">Mitchelle Ochanda</span></h1>
+          <h1>Hi, I'm <span class="highlight">Mitchelle A Ochanda</span></h1>
           <p class="subtitle">
             Welcome to my modern portfolio landing page deployed on Azure App Service.
             This page showcases my learning journey, project work, and cloud deployment success.
