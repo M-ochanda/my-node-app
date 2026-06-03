@@ -233,7 +233,7 @@ app.get('/', (req, res) => {
               Explore Azure App Service
             </a>
             <a class="btn btn-secondary" href="https://github.com/" target="_blank">
-              View My Future GitHub
+              View GitHub
             </a>
           </div>
 
